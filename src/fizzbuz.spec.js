@@ -18,7 +18,7 @@ describe("Fizzbuzz", () => {
   });
 
   it("retornar otro ejemplo pero con baja cobertura y muchas lineas", () => {
-    expect(fizzBuzz(4)).toEqual(4);
+    expect(fizzBuzz(4)).toEqual(5);
   });
   it("retornar otro ejemplo pero con baja cobertura y muchas lineas", () => {
     expect(fizzBuzz(7)).toEqual(7);
