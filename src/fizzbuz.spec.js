@@ -16,4 +16,8 @@ describe("Fizzbuzz", () => {
   it("retornar otro ejemplo pero con baja cobertura y muchas lineas", () => {
     expect(fizzBuzz(7)).toEqual(7);
   });
+
+  it("retornar otro ejemplo pero con baja cobertura y muchas lineas", () => {
+    expect(fizzBuzz(4)).toEqual(6);
+  });
 });

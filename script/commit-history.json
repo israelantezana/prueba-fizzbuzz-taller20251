@@ -95,12 +95,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "964c5e81c1f3066e46dcae9069f1ec7b2d8b87c0",
     "author": "Israel Antezana Rojas",
     "commit": {
       "date": "2025-06-05T15:21:51.000Z",
       "message": "Baja la cobertura?",
-      "url": "https://github.com/israelantezana/prueba-fizzbuzz-taller20251/commit/HEAD"
+      "url": "https://github.com/israelantezana/prueba-fizzbuzz-taller20251/commit/964c5e81c1f3066e46dcae9069f1ec7b2d8b87c0"
     },
     "stats": {
       "total": 12,
@@ -112,5 +112,24 @@
     "test_count": 5,
     "failed_tests": 0,
     "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Israel Antezana Rojas",
+    "commit": {
+      "date": "2025-06-05T15:32:48.000Z",
+      "message": "prueba fallando",
+      "url": "https://github.com/israelantezana/prueba-fizzbuzz-taller20251/commit/HEAD"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 4,
+      "deletions": 0,
+      "date": "2025-06-05"
+    },
+    "coverage": 100,
+    "test_count": 6,
+    "failed_tests": 1,
+    "conclusion": "failure"
   }
 ]
