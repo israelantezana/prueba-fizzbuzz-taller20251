@@ -1,4 +1,4 @@
-//import sumar from "./sumador.js";
+import fizzbuzz from "./fizzbuzz.js";
 
 describe("Fizzbuzz", () => {
   it("retornar el numero si no sigue una regla", () => {
@@ -9,7 +9,3 @@ describe("Fizzbuzz", () => {
     expect(fizzbuzz(2)).toEqual(2);
   });
 });
-
-function fizzbuzz(n) {
-  return n;
-}
