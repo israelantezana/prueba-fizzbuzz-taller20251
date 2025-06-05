@@ -1,5 +1,5 @@
-function fizzbuzz(n) {
+function fizzBuzz(n) {
   return n;
 }
 
-export default fizzbuzz;
+export default fizzBuzz;

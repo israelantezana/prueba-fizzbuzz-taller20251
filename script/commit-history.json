@@ -57,17 +57,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "e47cbb532c47747b9c8a4e2ac97b39c919d56b80",
     "author": "Israel Antezana Rojas",
     "commit": {
       "date": "2025-06-05T15:12:54.000Z",
       "message": "ciclo de pruebas pasando",
-      "url": "https://github.com/israelantezana/prueba-fizzbuzz-taller20251/commit/HEAD"
+      "url": "https://github.com/israelantezana/prueba-fizzbuzz-taller20251/commit/e47cbb532c47747b9c8a4e2ac97b39c919d56b80"
     },
     "stats": {
       "total": 4,
       "additions": 4,
       "deletions": 0,
+      "date": "2025-06-05"
+    },
+    "coverage": 100,
+    "test_count": 4,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Israel Antezana Rojas",
+    "commit": {
+      "date": "2025-06-05T15:16:05.000Z",
+      "message": "Refactoring: se modifico nombre de funcion",
+      "url": "https://github.com/israelantezana/prueba-fizzbuzz-taller20251/commit/HEAD"
+    },
+    "stats": {
+      "total": 12,
+      "additions": 6,
+      "deletions": 6,
       "date": "2025-06-05"
     },
     "coverage": 100,
