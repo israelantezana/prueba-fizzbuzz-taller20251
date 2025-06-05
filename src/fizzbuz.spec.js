@@ -18,6 +18,6 @@ describe("Fizzbuzz", () => {
   });
 
   it("retornar otro ejemplo pero con baja cobertura y muchas lineas", () => {
-    expect(fizzBuzz(4)).toEqual(6);
+    expect(fizzBuzz(4)).toEqual(4);
   });
 });
